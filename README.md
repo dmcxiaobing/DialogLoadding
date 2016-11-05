@@ -1,6 +1,8 @@
 # DialogLoadding
 
-作者：[程序员小冰](http://blog.csdn.net/qq_21376985)  [欢迎点击关注微博](http://weibo.com/mcxiaobing)
+作者：[程序员小冰](http://blog.csdn.net/qq_21376985)  
+
+[欢迎点击关注微博](http://weibo.com/mcxiaobing)
 
 长期维护的Android项目，里面包括常用功能实现，以及知识点详解， 当然还有Java中的知识点。
 
