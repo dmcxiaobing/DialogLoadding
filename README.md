@@ -6,7 +6,7 @@
 
 长期维护的Android项目，里面包括常用功能实现，以及知识点详解， 当然还有Java中的知识点。
 
-Android利器
+Android利器 开源项目：
 
 具体请看github：`https://github.com/QQ986945193/DavidAndroidProjectTools`
 
