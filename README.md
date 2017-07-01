@@ -76,3 +76,8 @@ Android利器 开源项目：
 
 所以，我在这里提供一下这两种实现方式的源代码，所以大家可以参考一下。优化一下集中在项目中，
 
+当然如果我的项目帮到了你，欢迎进行打赏，请作者喝杯茶。谢谢支持。
+
+![支付宝](http://img.blog.csdn.net/20170623085838863?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjEzNzY5ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+
+![微信](http://img.blog.csdn.net/20170623085900598?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvcXFfMjEzNzY5ODU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
